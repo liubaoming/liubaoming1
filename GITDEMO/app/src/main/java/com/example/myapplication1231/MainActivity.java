@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.w("1","!12311");
+        Log.w("1","!1231阿三打撒打撒打撒1");
     }
 }
